@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://c4hucqons8l8r"]
+
+[node name="PuntosDeAparicion" type="Node2D"]
+
+[node name="Marker2D" type="Marker2D" parent="."]
+position = Vector2(41, 212)
